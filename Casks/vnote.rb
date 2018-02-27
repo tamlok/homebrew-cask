@@ -1,5 +1,5 @@
 cask 'vnote' do
-  version '1.11.1'
+  version '1.12'
   sha256 'ceb5636c4a11d30c75bb8b0e87cd659894b5421385f2932d7881d2ff657fc941'
 
   # github.com/tamlok/vnote was verified as official when first introduced to the cask
